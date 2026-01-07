@@ -94,9 +94,11 @@ This project demonstrates how earnings risk can be identified *before* misses oc
 
 ## Repository Contents (At a Glance)
 - `assets/` — Executive screenshots illustrating forecast fragility scoring and next-miss simulations  
-- `README.md` — Project overview and analytical narrative  
+- `memo/` — Executive summary outlining forecast fragility conclusions and guidance risk assessment  
+- `README.md` — Project overview, analytical framework, and decision implications  
 
 The primary analytical model is maintained in Google Sheets and linked above.
+
 
 ---
 

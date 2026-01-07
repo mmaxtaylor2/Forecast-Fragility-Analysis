@@ -1,0 +1,87 @@
+# Forecast Fragility Analysis  
+**Where Management Guidance Breaks First**
+
+---
+
+## Business Question
+Public company guidance drives investor expectations, internal budgets, and capital allocation decisions — yet forecasts often fail at macro and operating inflection points.
+
+Earnings misses are frequently treated as surprises, even though the underlying assumptions become structurally fragile well before results are reported.
+
+This project asks a forward-looking question:
+
+**Where do corporate forecasts break first — and can those failures be identified before earnings misses occur?**
+
+---
+
+## Why This Matters
+Forecast credibility sits at the center of FP&A, investor relations, and executive decision-making. When guidance fails, the issue is rarely a single bad quarter; it is usually the result of assumptions that became unstable as conditions changed.
+
+Understanding *forecast fragility* — rather than simply tracking beats and misses — allows finance teams to:
+- Identify where guidance risk is building
+- Distinguish execution risk from demand risk
+- Anticipate downside scenarios before they materialize
+
+This analysis mirrors how FP&A and capital markets teams evaluate earnings risk beyond headline guidance.
+
+---
+
+## Analytical Framework
+To assess forecast credibility and earnings risk, this project introduces a **Forecast Fragility Score**, a structured framework designed to evaluate how sensitive earnings outcomes are to small assumption errors.
+
+The framework evaluates key guidance drivers across three dimensions:
+- **Volatility** — how variable the underlying driver is
+- **Controllability** — the degree to which management can influence outcomes
+- **Forecast reliability** — historical accuracy and stability of the assumption
+
+Rather than asking whether results beat or missed expectations, the framework asks **how fragile the assumptions were that produced those expectations**.
+
+---
+
+## Case Study Scope
+The framework is applied to **FedEx** and **Starbucks** following FY2025 Q4 results to evaluate where future earnings risk is most likely to emerge.
+
+---
+
+## Key Findings
+
+### FedEx — Lower Forecast Fragility
+FedEx exhibits **low to moderate forecast fragility**, with recent earnings performance driven primarily by controllable internal levers:
+
+- Structural cost reductions under the DRIVE program  
+- Network efficiency improvements  
+- Capital discipline and margin-focused execution  
+
+While revenue growth remains modest, margin performance has proven resilient. Downside risk is more likely to emerge from external demand softness rather than internal execution failure, resulting in relatively stable guidance under moderate uncertainty.
+
+---
+
+### Starbucks — Elevated Forecast Fragility
+Starbucks exhibits **elevated forecast fragility**, despite a return to positive global comparable sales growth in Q4 FY2025.
+
+Earnings outcomes remain highly sensitive to:
+- Labor cost inflation  
+- Promotional intensity  
+- Restructuring activity  
+- Traffic recovery and consumer behavior  
+
+As a result, earnings performance depends on multi-quarter execution and behavioral recovery rather than near-term controllable levers, increasing sensitivity to small assumption errors and raising the risk of forecast volatility.
+
+---
+
+## Key Insight
+Forecast risk is **asymmetric across companies**, even when topline performance appears similar.
+
+- FedEx’s earnings outlook is anchored by controllable cost and efficiency levers, producing more stable guidance  
+- Starbucks remains in a transition phase where labor, promotions, and traffic recovery introduce materially higher sensitivity to assumption error  
+
+By isolating where forecasts are most fragile, this framework allows planning teams and investors to distinguish between **durable guidance** and guidance that is structurally vulnerable to future misses.
+
+---
+
+## Conclusion
+Forecast failures are rarely sudden. They develop gradually as assumptions lose stability.
+
+This project demonstrates that earnings risk can be evaluated *before* misses occur by identifying which guidance inputs are most fragile. Companies that anchor forecasts to controllable levers exhibit more durable guidance, while those dependent on behavioral recovery and external conditions face greater volatility.
+
+For FP&A and strategy teams, understanding forecast fragility is
